@@ -1,0 +1,10 @@
+Generic single-database configuration with async SQLAlchemy.
+
+Generate a new migration:
+    poetry run alembic revision --autogenerate -m "description"
+
+Apply migrations:
+    poetry run alembic upgrade head
+
+Rollback one step:
+    poetry run alembic downgrade -1

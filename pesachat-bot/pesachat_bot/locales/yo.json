@@ -1,0 +1,9 @@
+{
+  "start": "Ẹ káàbọ̀ sí PesaChat. Fi owó ránṣẹ́ sílé bí títí ìfiránṣẹ́.",
+  "send_prompt": "Tẹ nọmba olùgbà àti iye, fún àpẹẹrẹ /send 100 USD to +2348012345678",
+  "confirm_prompt": "Jẹ́rìísí: rán {amount} {currency}. Olùgbà yóò gbà {local_amount} {local_currency}.",
+  "confirmed": "Gbigbe ti fi silẹ.",
+  "delivered": "Ti fi jiṣẹ. Olùgbà ti jẹrisi gbigba.",
+  "cancelled": "Gbigbe ti fagilee.",
+  "error_generic": "Àṣìṣe wà. Jọwọ gbiyanju lẹẹkan si tabi kan sí atilẹyin."
+}

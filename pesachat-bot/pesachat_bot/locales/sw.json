@@ -1,0 +1,9 @@
+{
+  "start": "Karibu PesaChat. Tuma pesa nyumbani kwa urahisi kama kutuma ujumbe.",
+  "send_prompt": "Ingiza nambari ya mpokeaji na kiasi, mfano /send 100 USD to +2348012345678",
+  "confirm_prompt": "Thibitisha: tuma {amount} {currency}. Mpokeaji anapata {local_amount} {local_currency}.",
+  "confirmed": "Uhamisho umewasilishwa.",
+  "delivered": "Imetolewa. Mpokeaji amethibitisha mapokezi.",
+  "cancelled": "Uhamisho umefutwa.",
+  "error_generic": "Hitilafu imetokea. Tafadhali jaribu tena au wasiliana na usaidizi."
+}
