@@ -1,0 +1,9 @@
+{
+  "start": "Welcome to PesaChat. Send money home as easily as sending a message.",
+  "send_prompt": "Enter the recipient's phone number and amount, e.g. /send 100 USD to +2348012345678",
+  "confirm_prompt": "Confirm: send {amount} {currency}. Recipient gets {local_amount} {local_currency}.",
+  "confirmed": "Transfer submitted.",
+  "delivered": "Delivered. Recipient confirmed receipt.",
+  "cancelled": "Transfer cancelled.",
+  "error_generic": "Something went wrong. Please try again or contact support."
+}
