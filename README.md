@@ -1,10 +1,3 @@
-# PesaChat
-
-> A Telegram bot for the diaspora. Send money home as easily as sending a message.
-
-[![build](https://img.shields.io/github/actions/workflow/status/tosirano/pesachat/ci.yml?branch=main)](https://github.com/tosirano/pesachat/actions)
-[![coverage](https://img.shields.io/codecov/c/github/tosirano/pesachat)](https://codecov.io/gh/tosirano/pesachat)
-
 ## The problem we are solving
 
 According to the World Bank, the average cost of sending $200 to Sub-Saharan Africa is 7.9% — the highest in the world. For a Nigerian nurse in Manchester sending £200 home every month, that is roughly £190 a year lost to fees. For a family receiving $100 from a relative in Houston, that is $8 that never makes it to the dinner table.
