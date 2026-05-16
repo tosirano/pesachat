@@ -1,4 +1,4 @@
-.PHONY: install migrate dev test lint
+.PHONY: install migrate dev test lint format
 
 install:
 	poetry install
@@ -14,3 +14,6 @@ test:
 
 lint:
 	poetry run ruff check .
+
+format:
+	poetry run black .
