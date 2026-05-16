@@ -139,29 +139,3 @@ What this means in practice:
 - We do enforce the corridor limits the anchor sets and we surface KYC status to the user inside the chat.
 
 If you fork PesaChat to operate in a new jurisdiction, you are responsible for your own anchor relationships and compliance posture.
-
-## Roadmap
-
-We prioritize by corridor demand. Diaspora communities tell us where the pain is and we build to those corridors next.
-
-**Q2 2026**
-- WhatsApp Cloud API rail (parity with Telegram)
-- USDC.e support on receiving anchors that hold non-native USDC
-- Recurring transfers (`/send 50 USD to +234... every friday`)
-
-**Q3 2026**
-- Group remittance pools (one sender, multiple recipients in one message)
-- Voice-note transfers (Whisper transcription, confirmed by tap)
-- LATAM corridors (US to Mexico, US to Colombia, US to Peru)
-
-**Q4 2026**
-- Bidirectional flows (recipient-initiated invoice requests)
-- Native Signal bot (privacy-first audience)
-
-## Team
-
-PesaChat is built by a small team of African and diaspora engineers. We started this project because moving money home should not be a luxury we pay 10% for. If that resonates and you want to help, reach out at hello@pesachat.dev.
-
-## License
-
-PesaChat core is released under Apache 2.0. The bot frontend (`pesachat-bot/`) is MIT-licensed so anchor partners can fork and rebrand for closed corridors.
